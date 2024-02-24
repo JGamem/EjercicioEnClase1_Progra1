@@ -1,0 +1,15 @@
+/Users/jgamez/Desktop/EjercicioEnClase1_Progra1/EjercicioEnClase1_Progra1/bin/Debug/net7.0/EjercicioEnClase1_Progra1
+/Users/jgamez/Desktop/EjercicioEnClase1_Progra1/EjercicioEnClase1_Progra1/bin/Debug/net7.0/EjercicioEnClase1_Progra1.deps.json
+/Users/jgamez/Desktop/EjercicioEnClase1_Progra1/EjercicioEnClase1_Progra1/bin/Debug/net7.0/EjercicioEnClase1_Progra1.runtimeconfig.json
+/Users/jgamez/Desktop/EjercicioEnClase1_Progra1/EjercicioEnClase1_Progra1/bin/Debug/net7.0/EjercicioEnClase1_Progra1.dll
+/Users/jgamez/Desktop/EjercicioEnClase1_Progra1/EjercicioEnClase1_Progra1/bin/Debug/net7.0/EjercicioEnClase1_Progra1.pdb
+/Users/jgamez/Desktop/EjercicioEnClase1_Progra1/EjercicioEnClase1_Progra1/obj/Debug/net7.0/EjercicioEnClase1_Progra1.csproj.AssemblyReference.cache
+/Users/jgamez/Desktop/EjercicioEnClase1_Progra1/EjercicioEnClase1_Progra1/obj/Debug/net7.0/EjercicioEnClase1_Progra1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jgamez/Desktop/EjercicioEnClase1_Progra1/EjercicioEnClase1_Progra1/obj/Debug/net7.0/EjercicioEnClase1_Progra1.AssemblyInfoInputs.cache
+/Users/jgamez/Desktop/EjercicioEnClase1_Progra1/EjercicioEnClase1_Progra1/obj/Debug/net7.0/EjercicioEnClase1_Progra1.AssemblyInfo.cs
+/Users/jgamez/Desktop/EjercicioEnClase1_Progra1/EjercicioEnClase1_Progra1/obj/Debug/net7.0/EjercicioEnClase1_Progra1.csproj.CoreCompileInputs.cache
+/Users/jgamez/Desktop/EjercicioEnClase1_Progra1/EjercicioEnClase1_Progra1/obj/Debug/net7.0/EjercicioEnClase1_Progra1.dll
+/Users/jgamez/Desktop/EjercicioEnClase1_Progra1/EjercicioEnClase1_Progra1/obj/Debug/net7.0/refint/EjercicioEnClase1_Progra1.dll
+/Users/jgamez/Desktop/EjercicioEnClase1_Progra1/EjercicioEnClase1_Progra1/obj/Debug/net7.0/EjercicioEnClase1_Progra1.pdb
+/Users/jgamez/Desktop/EjercicioEnClase1_Progra1/EjercicioEnClase1_Progra1/obj/Debug/net7.0/EjercicioEnClase1_Progra1.genruntimeconfig.cache
+/Users/jgamez/Desktop/EjercicioEnClase1_Progra1/EjercicioEnClase1_Progra1/obj/Debug/net7.0/ref/EjercicioEnClase1_Progra1.dll
