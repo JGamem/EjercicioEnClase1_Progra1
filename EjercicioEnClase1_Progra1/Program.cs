@@ -68,3 +68,29 @@ do
 } while (contraseña!=usuarioInsert);
 
 Console.WriteLine("Contraseña correcta!");
+
+//Ejercicio 2
+Random rnd = new Random();
+int numeroAleatorio = rnd.Next(1, 101);
+
+// Variable para almacenar el número ingresado por el usuario
+int numeroIngresado;
+
+// Ciclo para solicitar al usuario que adivine el número
+do
+{
+    Console.Write("Adivina el número (entre 1 y 100): ");
+    numeroIngresado = int.Parse(Console.ReadLine());
+    if (numeroIngresado < numeroAleatorio)
+    {
+        Console.WriteLine("El número que ingresaste es menor. ¡Inténtalo de nuevo!");
+    }
+    else if (numeroIngresado > numeroAleatorio)
+    {
+        Console.WriteLine("El número que ingresaste es mayor. ¡Inténtalo de nuevo!");
+    }
+    else
+    {
+        Console.WriteLine("¡Felicitaciones! Has adivinado el número.");
+    }
+} while (numeroIngresado != numeroAleatorio);
